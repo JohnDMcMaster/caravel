@@ -1,0 +1,15 @@
+Notice 0: Reading LEF file:  /project/openlane/mcchip/runs/mcchip/tmp/merged.lef
+Notice 0:     Created 13 technology layers
+Notice 0:     Created 25 technology vias
+Notice 0:     Created 437 library cells
+Notice 0: Finished LEF file:  /project/openlane/mcchip/runs/mcchip/tmp/merged.lef
+Notice 0: 
+Reading DEF file: /project/openlane/mcchip/runs/mcchip/tmp/floorplan/verilog2def_openroad.def
+Notice 0: Design: mcchip
+Notice 0:     Created 604 pins.
+Notice 0:     Created 792 components and 5363 component-terminals.
+Notice 0:     Created 1127 nets and 2092 connections.
+Notice 0: Finished DEF file: /project/openlane/mcchip/runs/mcchip/tmp/floorplan/verilog2def_openroad.def
+Top-level design name: mcchip
+Block boundaries: 0 0 600000 600000
+Writing /project/openlane/mcchip/runs/mcchip/tmp/floorplan/ioPlacer.def
